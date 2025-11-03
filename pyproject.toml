@@ -4,8 +4,9 @@ version = "0.1.0"
 description = "Kite converts .NET WinForms/WPF UIs to Python Tkinter."
 readme = "README.md"
 requires-python = ">=3.9"
-authors = [{name = "Kite", email = "devnull@example.com"}]
+authors = [{name = "Kite", email = "devnull@donthaveone.com"}]
 license = {text = "MIT"}
 
 [project.scripts]
 kite = "kite.cli:main"
+
